@@ -1,0 +1,2 @@
+chạy file food_app, cần mở file file pubsec.yaml 
+rồi flutter get để tải các thư viện về 
